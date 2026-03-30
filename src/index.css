@@ -10,3 +10,31 @@ body {
 .App {
   text-align: center;
 }
+.comments-btn{
+  margin: 50%;
+  margin: auto;
+  margin-top: 5px;
+  display: block
+}
+.comment {
+  font-style: italic;
+}
+.commentContainer {
+  margin: 0 auto;
+  width: 60em;
+  margin-top: 10px;
+  border-top: solid black 0.5px;
+}
+.active-like{
+  background-color: red;
+}
+.active-dislike{
+  background-color: brown;
+}
+input[type="text"] {
+  width: 45em;
+}
+.delete{
+  margin-left: 1em;
+  background-color: rgb(239, 9, 9);
+}
